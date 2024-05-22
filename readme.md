@@ -59,7 +59,7 @@ adapter.
 Binaries (and the installer) are in the bin/ directory.
 
 Version 0.9.4 works with both the VirtualBox and Qemu/KVM implementations of the
-virtio network device, and is known to work with OS X 10.6 (Snow Leopard) through
+virtio network device, and is known to work with OS X 10.7 (Lion) through
 10.9.x (Mavericks/Sea Lion), with both 32-bit and 64-bit kernels.
 
 It might also run on 10.6 (it certainly will if you build it against the 10.6
