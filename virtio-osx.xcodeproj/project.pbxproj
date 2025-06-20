@@ -781,7 +781,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.6;
+				SDKROOT = macosx10.9;
 				WRAPPER_EXTENSION = kext;
 			};
 			name = Debug;
@@ -819,7 +819,7 @@
 				MODULE_VERSION = 0.9b1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.6;
+				SDKROOT = macosx10.9;
 				WRAPPER_EXTENSION = kext;
 			};
 			name = Release;
